@@ -72,3 +72,6 @@ Attaches the resume
 Sends the email
 Logs the job ID and company to prevent duplicate contact
 
+Note: There are couple of future enhancements need to be done
+
+
